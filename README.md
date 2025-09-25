@@ -1,8 +1,3 @@
-CCIDs:
+Name: Tatst Shah
 
-lpitman
-vatsal2
-ecarter2
-tatsat
-bbatta
-dzhong4
+CCID: tatsat
