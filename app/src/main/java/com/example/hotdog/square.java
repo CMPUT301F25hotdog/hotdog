@@ -1,5 +1,5 @@
 package com.example.hotdog;
 
-public class square extends Shape {
+public class Triangle extends Shape {
 
 }
